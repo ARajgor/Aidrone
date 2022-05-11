@@ -1,0 +1,10 @@
+/.idea/Aidrone.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/other.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
+/basic/video/
+/basic/img/
+yolov3.weights
