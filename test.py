@@ -1,7 +1,5 @@
 import datetime
 ct = format(datetime.datetime.now())
-
+ct=ct.split(".")[0].replace(':','')
 
 # test git  branch
-
-# remove one line
